@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @l-u-c-i-a-r-o-i-g
+- 👋 Hi, I’m Lucia a.k.a uchi :)
 - 🤗 I’m interested in music, dance, sound design, Videogames, robots, iot, ai
 - 🌱 I’m currently learning ReactJS, Python, Arduino
 - 🌐 I’m looking to collaborate on artistic and experimental projects, games!, 
