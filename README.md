@@ -1,6 +1,6 @@
-- 👽 Hi, I’m Lucia a.k.a uchi :)
-- 🤗 I’m interested in music, dance, sound design, Videogames, robots, bikes
-- 🌱 I’m currently learning ReactJS, Python, Arduino
+- 👽 Hi, I’m Lucia :)
+- 🤗 I’m interested in music, dance, sound design, Videogames, robots, bikes.
+- 🌱 I’m currently learning ReactJS, Python, Arduino.
 - 🌐 I’m looking to collaborate on artistic and experimental projects, games!
 - 📫 How to reach me lucia.roig.seigneur@gmail.com
 
