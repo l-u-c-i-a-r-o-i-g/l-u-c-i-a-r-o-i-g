@@ -1,6 +1,5 @@
-- 👽 Hi, I’m Lucia :)
-- 🤗 I’m interested in Music, Dance, Sound Design, Videogames, Robots, Bikes.
+- 👽 Hi
 - 🌱 I’m currently learning ReactJS, Python, Arduino.
 - 🌐 I’m looking to collaborate on artistic and experimental projects, games!
-- 📫 How to reach me lucia.roig.seigneur@gmail.com
+- 📫 To reach me: lucia.roig.seigneur@gmail.com
 
